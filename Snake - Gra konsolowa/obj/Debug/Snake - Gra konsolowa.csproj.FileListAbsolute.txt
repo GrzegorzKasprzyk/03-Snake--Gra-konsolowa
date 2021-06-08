@@ -1,0 +1,7 @@
+C:\Users\grzes\Desktop\Snake\Snake - Gra konsolowa\bin\Debug\Snake - Gra konsolowa.exe.config
+C:\Users\grzes\Desktop\Snake\Snake - Gra konsolowa\bin\Debug\Snake - Gra konsolowa.exe
+C:\Users\grzes\Desktop\Snake\Snake - Gra konsolowa\bin\Debug\Snake - Gra konsolowa.pdb
+C:\Users\grzes\Desktop\Snake\Snake - Gra konsolowa\obj\Debug\Snake - Gra konsolowa.csprojAssemblyReference.cache
+C:\Users\grzes\Desktop\Snake\Snake - Gra konsolowa\obj\Debug\Snake - Gra konsolowa.csproj.CoreCompileInputs.cache
+C:\Users\grzes\Desktop\Snake\Snake - Gra konsolowa\obj\Debug\Snake - Gra konsolowa.exe
+C:\Users\grzes\Desktop\Snake\Snake - Gra konsolowa\obj\Debug\Snake - Gra konsolowa.pdb
